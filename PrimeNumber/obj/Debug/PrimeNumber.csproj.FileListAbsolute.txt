@@ -1,0 +1,10 @@
+C:\teo scoala\numar prim\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\teo scoala\numar prim\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.Properties.Resources.resources
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.csproj.GenerateResource.cache
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\PrimeNumber.PrimeNumberForm.resources
+C:\teo scoala\numar prim\PrimeNumber\obj\Debug\VerificareNumarPrim.Form1.resources
