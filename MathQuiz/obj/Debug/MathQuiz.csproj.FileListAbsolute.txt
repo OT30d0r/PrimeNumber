@@ -1,0 +1,9 @@
+C:\teo scoala\numar prim\MathQuiz\bin\Debug\MathQuiz.exe
+C:\teo scoala\numar prim\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.exe
+C:\teo scoala\numar prim\MathQuiz\obj\Debug\MathQuiz.pdb
